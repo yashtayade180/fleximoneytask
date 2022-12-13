@@ -6,9 +6,6 @@ const Navbaar = () => {
     <header>
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <div className="container-fluid">
-          <NavLink className="navbar-brand" to="/">
-            Jeswani Hospital
-          </NavLink>
           <button
             className="navbar-toggler"
             type="button"

@@ -82,7 +82,7 @@ const Details = () => {
           color: "darkblue",
         }}
       >
-        Welcome Back Doc!!
+        Welcome Back CTO!!
       </h1>
       <div
         classname="container ml-5"
